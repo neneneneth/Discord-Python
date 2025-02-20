@@ -85,7 +85,3 @@ if __name__ == "__main__":
     system("title " + "Discord")
     attack_instance = DiscordAttack()
     attack_instance.starting()
-
-    
-    
-    "https://discord.com/api/webhooks/1341985359768195114/aXs-sTvk5kk9yAss-AYQIDR1CGiVJLs3RQMsG7BFC0v98BMtnnfLJixZposSEbTvpQ9V"
